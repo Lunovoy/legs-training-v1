@@ -15,13 +15,13 @@
 
 
 ### 1. __Болгарские приседания с гантелями - 3 подхода по 10-12 раз на каждую ногу__
-![BulgarianSplitSquats](/bulgarianSplitSquats.png)
+![BulgarianSplitSquats](/pics//bulgarianSplitSquats.png)
 ### 2. __Приседания со штангой - 3 подхода по 10-12 раз__
-![Squats](/squats.png)
+![Squats](/pics//squats.png)
 ### 3. __Ягодичный мостик со штангой или гантелями - 4 подхода по 10-12 раз__
-![GluteBridges](/gluteBridges.png)
+![GluteBridges](/pics/gluteBridges.png)
 ### 4. __Румынская тяга с гантелями - 4 подхода по 10-12 раз__
-![RomanianDeadlifts](/romanianDeadlifts.png)
+![RomanianDeadlifts](/pics/romanianDeadlifts.png)
 
 ---
 
